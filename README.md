@@ -1,11 +1,9 @@
-# GiveawayBot™
+# ilnwGiveAwayBot
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-### A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and Seamless Giveaways within your very own Discord guild!
+### A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and Seamless ilnwGiveAway within your very own Discord guild!
 ## Links
-- ### This Giveaway Bot Was Created by [ZeroSync](https://youtube.com/c/ZeroSync/)
-- [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+- ### This ilnwGiveAway Bot Was Created by [i-lnw](https://i-lnw.com/)
 ## Licensed Under
 ### Creative Commons Zero v1.0 Universal
 [View the license here](https://github.com/ZeroDiscord/Giveaway/blob/master/LICENSE)
@@ -78,7 +76,7 @@ pm2 start --name "Giveaway" index.js --watch
 </kbd>
 <b>
   
-### Interactive Giveaway Creation
+### Interactive ilnwGiveAway Creation
   
   <kbd>
   <img src="https://zerosnap.000webhostapp.com/mig6cvt0.gif">
